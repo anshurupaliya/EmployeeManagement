@@ -1,0 +1,17 @@
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.deps.json
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.runtimeconfig.json
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.dll
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Repository.pdb
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Model.dll
+D:\Employee\EmployeeManagement.Repository\bin\Debug\net8.0\EmployeeManagement.Model.pdb
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.csproj.AssemblyReference.cache
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.AssemblyInfo.cs
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\Employee.9A41D833.Up2Date
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.dll
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\refint\EmployeeManagement.Repository.dll
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.pdb
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\EmployeeManagement.Repository.genruntimeconfig.cache
+D:\Employee\EmployeeManagement.Repository\obj\Debug\net8.0\ref\EmployeeManagement.Repository.dll
